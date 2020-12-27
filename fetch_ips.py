@@ -24,7 +24,7 @@ RAW_URL = [
 
 IPADDRESS_PREFIX = ".ipaddress.com"
 
-HOSTS_TEMPLATE = """# Nan Host Start
+HOSTS_TEMPLATE = """# 绯月 Host Start
 {content}# Star me GitHub url:https://github.com/Ecalose/fyhosts
 # 绯月 Host End\n"""
 
