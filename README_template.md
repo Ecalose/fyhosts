@@ -49,8 +49,9 @@ hosts 文件在每个系统的位置不一，详情如下：
 - Title: 随意
 
 - Type: `Remote`
-- URL: `https://raw.fastgit.org/Ecalose/fyhosts/master/hosts`
-
+- URL: `https://raw.fastgit.org/Ecalose/fyhosts/master/hosts`(fastgit加速)
+       `https://gh.haval.gq/Ecalose/fyhosts/raw/master/hosts`(cloudflare加速)
+        (任选其一即可）
 - Auto Refresh: 最好选`1hour`
 
 如图：
@@ -65,7 +66,9 @@ hosts 文件在每个系统的位置不一，详情如下：
 
 - 名称: 随意
 
-- URL: `https://raw.fastgit.org/Ecalose/fyhosts/master/hosts`（和上面 SwitchHosts 使用的一样）
+- URL: `https://raw.fastgit.org/Ecalose/fyhosts/master/hosts`(fastgit加速)
+       `https://gh.haval.gq/Ecalose/fyhosts/raw/master/hosts`(cloudflare加速)
+       (任选其一即可）
 
 如图：
 
