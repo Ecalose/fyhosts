@@ -40,8 +40,8 @@ jobs:
     - name: commit
       id: commit
       run: |
-        git config --global user.email HelloGitHub
-        git config --global user.name action_bot
+        git config --global user.name Ecalose
+        git config --global user.email actionbot@email.com
         git add .
         git commit -m "update readme content"
       continue-on-error: true
