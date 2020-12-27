@@ -19,7 +19,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2020-12-27T16:15:20+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2020-12-27T16:23:43+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
@@ -58,7 +58,8 @@ hosts 文件在每个系统的位置不一，详情如下：
 - Type: `Remote`
 - URL: `https://raw.fastgit.org/Ecalose/fyhosts/master/hosts`(fastgit加速)
        `https://gh.haval.gq/Ecalose/fyhosts/raw/master/hosts`(cloudflare加速)
-        (任选其一即可）
+        
+        (二者任选其一即可）
 - Auto Refresh: 最好选`1hour`
 
 如图：
@@ -75,7 +76,8 @@ hosts 文件在每个系统的位置不一，详情如下：
 
 - URL: `https://raw.fastgit.org/Ecalose/fyhosts/master/hosts`(fastgit加速)
        `https://gh.haval.gq/Ecalose/fyhosts/raw/master/hosts`(cloudflare加速)
-       (任选其一即可）
+       
+       (二者任选其一即可）
 
 如图：
 
