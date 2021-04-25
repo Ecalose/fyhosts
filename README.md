@@ -11,12 +11,15 @@
 ```bash
 # 绯月 Host Start
 173.230.157.235               bbs.kforz.com
+173.230.157.235               bbs.bakabbs.com
+172.104.110.220               bbs.365gal.com
+172.105.52.107                bbs.365galgame.com
 # Star me GitHub url:https://github.com/Ecalose/fyhosts
 # 绯月 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-04-25T20:25:36+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-04-25T22:16:35+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
